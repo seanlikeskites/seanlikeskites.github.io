@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Sean Enderby"
+title = "厚嘴棉凫窝"
 
 [params]
   displayName = "EN"
@@ -10,3 +10,10 @@ title = "Sean Enderby"
   rtl = false
   dateFormat = "2006-01-02"
   logo = "img/logo.svg"
+
+  [params.author]
+    name = "Sean Enderby"
+    image = "img/logo.png"
+    links = [
+      { github = "https://github.com/seanlikeskites" }
+    ]
