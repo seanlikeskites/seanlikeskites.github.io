@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 1
-title = "The Pygmy Goose Nest"
+languageCode = "zh-cn"
+languageName = "中文"
+weight = 2
+title = "厚嘴棉凫窝"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "中文"
+  isoCode = "zh-cn"
   rtl = false
   dateFormat = "2006-01-02"
   logo = "img/logo.svg"
