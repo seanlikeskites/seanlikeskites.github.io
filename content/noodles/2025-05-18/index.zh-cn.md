@@ -5,7 +5,7 @@ title = '排骨汤拉面'
 +++
 
 {{< figure
-  src="bowl.jpg"
+  src="featured.jpg"
   alt="面在碗里！"
   caption=""
 >}}
