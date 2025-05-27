@@ -7,6 +7,7 @@ featureimage = 'https://live.staticflickr.com/65535/54546982981_ba729dd961_z.jpg
 
 #### 至今我拉的最均匀的拉面！
 
+这周 Tesco 的冻羊肉在打折，适合做好喝的汤。
 我对今天的拉面特别满意：拉得超级均匀, 好劲道的口感。
 
 {{< figure
