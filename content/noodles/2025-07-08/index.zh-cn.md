@@ -7,7 +7,7 @@ featureimage = 'https://live.staticflickr.com/65535/54642618853_964404d1f0_z.jpg
 
 #### 手擀红烧肉面
 
-快速美味的面条。自从我们的儿子出生以来我第一次做面条。
+快手又美味的一碗面条。这是儿子出生以来我第一次做面条。
 
 {{< figure
   src="https://live.staticflickr.com/65535/54642618853_964404d1f0_b.jpg"
